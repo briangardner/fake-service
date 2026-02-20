@@ -1,0 +1,4 @@
+{
+  "name": "fake-service",
+  "tags": ["scope:tools", "lang:go", "access:public"]
+}
